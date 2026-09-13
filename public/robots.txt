@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mughal-cnc-website.vercel.app/sitemap.xml
+Sitemap: https://mughalcnc.vercel.app/sitemap.xml
