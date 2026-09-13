@@ -1,0 +1,206 @@
+{
+  "gallery": [
+    {
+      "file": "1.jpeg",
+      "url": "/assets/gallery/1.jpeg",
+      "order": 1
+    },
+    {
+      "file": "2.jpg",
+      "url": "/assets/gallery/2.jpg",
+      "order": 2
+    },
+    {
+      "file": "3.jpeg",
+      "url": "/assets/gallery/3.jpeg",
+      "order": 3
+    },
+    {
+      "file": "4.jpg",
+      "url": "/assets/gallery/4.jpg",
+      "order": 4
+    },
+    {
+      "file": "5.jpg",
+      "url": "/assets/gallery/5.jpg",
+      "order": 5
+    },
+    {
+      "file": "6.jpg",
+      "url": "/assets/gallery/6.jpg",
+      "order": 6
+    },
+    {
+      "file": "7.jpeg",
+      "url": "/assets/gallery/7.jpeg",
+      "order": 7
+    },
+    {
+      "file": "8.jpg",
+      "url": "/assets/gallery/8.jpg",
+      "order": 8
+    },
+    {
+      "file": "9.jpeg",
+      "url": "/assets/gallery/9.jpeg",
+      "order": 9
+    },
+    {
+      "file": "10.jpeg",
+      "url": "/assets/gallery/10.jpeg",
+      "order": 10
+    },
+    {
+      "file": "11.jpg",
+      "url": "/assets/gallery/11.jpg",
+      "order": 11
+    },
+    {
+      "file": "12.jpeg",
+      "url": "/assets/gallery/12.jpeg",
+      "order": 12
+    },
+    {
+      "file": "13.jpeg",
+      "url": "/assets/gallery/13.jpeg",
+      "order": 13
+    },
+    {
+      "file": "14.jpeg",
+      "url": "/assets/gallery/14.jpeg",
+      "order": 14
+    },
+    {
+      "file": "15.jpeg",
+      "url": "/assets/gallery/15.jpeg",
+      "order": 15
+    },
+    {
+      "file": "16.jpeg",
+      "url": "/assets/gallery/16.jpeg",
+      "order": 16
+    },
+    {
+      "file": "17.jpeg",
+      "url": "/assets/gallery/17.jpeg",
+      "order": 17
+    },
+    {
+      "file": "18.jpeg",
+      "url": "/assets/gallery/18.jpeg",
+      "order": 18
+    },
+    {
+      "file": "19.jpg",
+      "url": "/assets/gallery/19.jpg",
+      "order": 19
+    },
+    {
+      "file": "20.jpeg",
+      "url": "/assets/gallery/20.jpeg",
+      "order": 20
+    },
+    {
+      "file": "21.jpg",
+      "url": "/assets/gallery/21.jpg",
+      "order": 21
+    },
+    {
+      "file": "22.jpeg",
+      "url": "/assets/gallery/22.jpeg",
+      "order": 22
+    },
+    {
+      "file": "23.jpeg",
+      "url": "/assets/gallery/23.jpeg",
+      "order": 23
+    },
+    {
+      "file": "24.jpeg",
+      "url": "/assets/gallery/24.jpeg",
+      "order": 24
+    },
+    {
+      "file": "25.jpeg",
+      "url": "/assets/gallery/25.jpeg",
+      "order": 25
+    },
+    {
+      "file": "26.jpeg",
+      "url": "/assets/gallery/26.jpeg",
+      "order": 26
+    },
+    {
+      "file": "27.jpeg",
+      "url": "/assets/gallery/27.jpeg",
+      "order": 27
+    },
+    {
+      "file": "28.jpeg",
+      "url": "/assets/gallery/28.jpeg",
+      "order": 28
+    },
+    {
+      "file": "29.jpeg",
+      "url": "/assets/gallery/29.jpeg",
+      "order": 29
+    },
+    {
+      "file": "30.jpeg",
+      "url": "/assets/gallery/30.jpeg",
+      "order": 30
+    }
+  ],
+  "services": [
+    {
+      "file": "1.jpeg",
+      "url": "/assets/services/1.jpeg",
+      "order": 1
+    },
+    {
+      "file": "2.jpg",
+      "url": "/assets/services/2.jpg",
+      "order": 2
+    },
+    {
+      "file": "3.jpg",
+      "url": "/assets/services/3.jpg",
+      "order": 3
+    },
+    {
+      "file": "4.jpg",
+      "url": "/assets/services/4.jpg",
+      "order": 4
+    },
+    {
+      "file": "5.jpeg",
+      "url": "/assets/services/5.jpeg",
+      "order": 5
+    },
+    {
+      "file": "6.jpeg",
+      "url": "/assets/services/6.jpeg",
+      "order": 6
+    },
+    {
+      "file": "7.jpeg",
+      "url": "/assets/services/7.jpeg",
+      "order": 7
+    },
+    {
+      "file": "8.jpg",
+      "url": "/assets/services/8.jpg",
+      "order": 8
+    },
+    {
+      "file": "9.jpeg",
+      "url": "/assets/services/9.jpeg",
+      "order": 9
+    },
+    {
+      "file": "10.jpeg",
+      "url": "/assets/services/10.jpeg",
+      "order": 10
+    }
+  ]
+}
