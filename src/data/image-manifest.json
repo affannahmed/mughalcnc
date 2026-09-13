@@ -1,205 +1,205 @@
 {
   "gallery": [
     {
-      "file": "1.jpeg",
-      "url": "/assets/gallery/1.jpeg",
+      "file": "1.webp",
+      "url": "/assets/gallery/1.webp",
       "order": 1
     },
     {
-      "file": "2.jpg",
-      "url": "/assets/gallery/2.jpg",
+      "file": "2.webp",
+      "url": "/assets/gallery/2.webp",
       "order": 2
     },
     {
-      "file": "3.jpeg",
-      "url": "/assets/gallery/3.jpeg",
+      "file": "3.webp",
+      "url": "/assets/gallery/3.webp",
       "order": 3
     },
     {
-      "file": "4.jpg",
-      "url": "/assets/gallery/4.jpg",
+      "file": "4.webp",
+      "url": "/assets/gallery/4.webp",
       "order": 4
     },
     {
-      "file": "5.jpg",
-      "url": "/assets/gallery/5.jpg",
+      "file": "5.webp",
+      "url": "/assets/gallery/5.webp",
       "order": 5
     },
     {
-      "file": "6.jpg",
-      "url": "/assets/gallery/6.jpg",
+      "file": "6.webp",
+      "url": "/assets/gallery/6.webp",
       "order": 6
     },
     {
-      "file": "7.jpeg",
-      "url": "/assets/gallery/7.jpeg",
+      "file": "7.webp",
+      "url": "/assets/gallery/7.webp",
       "order": 7
     },
     {
-      "file": "8.jpg",
-      "url": "/assets/gallery/8.jpg",
+      "file": "8.webp",
+      "url": "/assets/gallery/8.webp",
       "order": 8
     },
     {
-      "file": "9.jpeg",
-      "url": "/assets/gallery/9.jpeg",
+      "file": "9.webp",
+      "url": "/assets/gallery/9.webp",
       "order": 9
     },
     {
-      "file": "10.jpeg",
-      "url": "/assets/gallery/10.jpeg",
+      "file": "10.webp",
+      "url": "/assets/gallery/10.webp",
       "order": 10
     },
     {
-      "file": "11.jpg",
-      "url": "/assets/gallery/11.jpg",
+      "file": "11.webp",
+      "url": "/assets/gallery/11.webp",
       "order": 11
     },
     {
-      "file": "12.jpeg",
-      "url": "/assets/gallery/12.jpeg",
+      "file": "12.webp",
+      "url": "/assets/gallery/12.webp",
       "order": 12
     },
     {
-      "file": "13.jpeg",
-      "url": "/assets/gallery/13.jpeg",
+      "file": "13.webp",
+      "url": "/assets/gallery/13.webp",
       "order": 13
     },
     {
-      "file": "14.jpeg",
-      "url": "/assets/gallery/14.jpeg",
+      "file": "14.webp",
+      "url": "/assets/gallery/14.webp",
       "order": 14
     },
     {
-      "file": "15.jpeg",
-      "url": "/assets/gallery/15.jpeg",
+      "file": "15.webp",
+      "url": "/assets/gallery/15.webp",
       "order": 15
     },
     {
-      "file": "16.jpeg",
-      "url": "/assets/gallery/16.jpeg",
+      "file": "16.webp",
+      "url": "/assets/gallery/16.webp",
       "order": 16
     },
     {
-      "file": "17.jpeg",
-      "url": "/assets/gallery/17.jpeg",
+      "file": "17.webp",
+      "url": "/assets/gallery/17.webp",
       "order": 17
     },
     {
-      "file": "18.jpeg",
-      "url": "/assets/gallery/18.jpeg",
+      "file": "18.webp",
+      "url": "/assets/gallery/18.webp",
       "order": 18
     },
     {
-      "file": "19.jpg",
-      "url": "/assets/gallery/19.jpg",
+      "file": "19.webp",
+      "url": "/assets/gallery/19.webp",
       "order": 19
     },
     {
-      "file": "20.jpeg",
-      "url": "/assets/gallery/20.jpeg",
+      "file": "20.webp",
+      "url": "/assets/gallery/20.webp",
       "order": 20
     },
     {
-      "file": "21.jpg",
-      "url": "/assets/gallery/21.jpg",
+      "file": "21.webp",
+      "url": "/assets/gallery/21.webp",
       "order": 21
     },
     {
-      "file": "22.jpeg",
-      "url": "/assets/gallery/22.jpeg",
+      "file": "22.webp",
+      "url": "/assets/gallery/22.webp",
       "order": 22
     },
     {
-      "file": "23.jpeg",
-      "url": "/assets/gallery/23.jpeg",
+      "file": "23.webp",
+      "url": "/assets/gallery/23.webp",
       "order": 23
     },
     {
-      "file": "24.jpeg",
-      "url": "/assets/gallery/24.jpeg",
+      "file": "24.webp",
+      "url": "/assets/gallery/24.webp",
       "order": 24
     },
     {
-      "file": "25.jpeg",
-      "url": "/assets/gallery/25.jpeg",
+      "file": "25.webp",
+      "url": "/assets/gallery/25.webp",
       "order": 25
     },
     {
-      "file": "26.jpeg",
-      "url": "/assets/gallery/26.jpeg",
+      "file": "26.webp",
+      "url": "/assets/gallery/26.webp",
       "order": 26
     },
     {
-      "file": "27.jpeg",
-      "url": "/assets/gallery/27.jpeg",
+      "file": "27.webp",
+      "url": "/assets/gallery/27.webp",
       "order": 27
     },
     {
-      "file": "28.jpeg",
-      "url": "/assets/gallery/28.jpeg",
+      "file": "28.webp",
+      "url": "/assets/gallery/28.webp",
       "order": 28
     },
     {
-      "file": "29.jpeg",
-      "url": "/assets/gallery/29.jpeg",
+      "file": "29.webp",
+      "url": "/assets/gallery/29.webp",
       "order": 29
     },
     {
-      "file": "30.jpeg",
-      "url": "/assets/gallery/30.jpeg",
+      "file": "30.webp",
+      "url": "/assets/gallery/30.webp",
       "order": 30
     }
   ],
   "services": [
     {
-      "file": "1.jpeg",
-      "url": "/assets/services/1.jpeg",
+      "file": "1.webp",
+      "url": "/assets/services/1.webp",
       "order": 1
     },
     {
-      "file": "2.jpg",
-      "url": "/assets/services/2.jpg",
+      "file": "2.webp",
+      "url": "/assets/services/2.webp",
       "order": 2
     },
     {
-      "file": "3.jpg",
-      "url": "/assets/services/3.jpg",
+      "file": "3.webp",
+      "url": "/assets/services/3.webp",
       "order": 3
     },
     {
-      "file": "4.jpg",
-      "url": "/assets/services/4.jpg",
+      "file": "4.webp",
+      "url": "/assets/services/4.webp",
       "order": 4
     },
     {
-      "file": "5.jpeg",
-      "url": "/assets/services/5.jpeg",
+      "file": "5.webp",
+      "url": "/assets/services/5.webp",
       "order": 5
     },
     {
-      "file": "6.jpeg",
-      "url": "/assets/services/6.jpeg",
+      "file": "6.webp",
+      "url": "/assets/services/6.webp",
       "order": 6
     },
     {
-      "file": "7.jpeg",
-      "url": "/assets/services/7.jpeg",
+      "file": "7.webp",
+      "url": "/assets/services/7.webp",
       "order": 7
     },
     {
-      "file": "8.jpg",
-      "url": "/assets/services/8.jpg",
+      "file": "8.webp",
+      "url": "/assets/services/8.webp",
       "order": 8
     },
     {
-      "file": "9.jpeg",
-      "url": "/assets/services/9.jpeg",
+      "file": "9.webp",
+      "url": "/assets/services/9.webp",
       "order": 9
     },
     {
-      "file": "10.jpeg",
-      "url": "/assets/services/10.jpeg",
+      "file": "10.webp",
+      "url": "/assets/services/10.webp",
       "order": 10
     }
   ]
